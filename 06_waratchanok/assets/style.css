@@ -1,11 +1,11 @@
-.section-tiltle{
-    color: cornflowerblue;
+.section-title {
+    color: #ff0000;
 }
 
-.div-title{
+.div-title {
     width: 100%;
     height: 150px;
-    background-color: #dd0b0b;
+    background-color: #0077ff;
     display: flex;
     align-items: center;
     justify-content: center;
