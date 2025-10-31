@@ -1,9 +1,19 @@
-.section-tiltle{
-    color: deeppink;
-
+:root{
+    --theme-color: #e785d2 ;
 }
-.div-title{
+.div-tiltle{
     width: 100%;
     height: 150px;
-    background-color: #faaad9;
+    background-color:var(--theme-color) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-tiltle{
+    color: rgb(255, 0, 170);
+}
+
+
+.section-subtiltle{
+  color:var(--theme-color);
 }

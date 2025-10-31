@@ -1,7 +1,33 @@
+:root {
+
+    --theme-color:rgb(132, 86, 185);
+
+
+}
+
+
+
+
+
+
+
+
+.div-title{
+    width: 100%;
+    height: 150px;
+    background-color: var(--theme-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
 .section-tiltle{
     color: rgb(133, 7, 7);
 }
 
-.div-title{
-    
+.section-subtiltle{
+    color:var(--theme-color);
 }
