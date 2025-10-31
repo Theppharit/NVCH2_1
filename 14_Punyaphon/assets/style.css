@@ -1,3 +1,11 @@
 .section-title {
-    color: #7ca;
+    color: rgb(130, 49, 6);
+}
+.div-title {
+    width: 100%;
+    height: 150px;
+    background-color: #fbe888;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
 }
