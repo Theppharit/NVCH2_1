@@ -1,22 +1,21 @@
 :root {
-    --theme-color:#11491d;
+    --theme-color:#9debff;
 }
 
 
+
+.section-title {
+    color: rgb(255, 157, 206);
+}
 
 .div-title {
     width: 100%;
     height: 150px;
-    background-color: var(--theme-color);
+    background-color:var(--theme-color);
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
-.section-tiltle {
-    color:orangered;
-}
-
-.section-subtiltle {
+.section-subtitle {
     color: var(--theme-color);
 }
