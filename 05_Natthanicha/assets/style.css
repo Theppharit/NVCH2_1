@@ -1,6 +1,6 @@
 :root {
 
-    --theme-color:rgb(15, 7, 24);
+    --theme-color:rgb(132, 86, 185);
 
 
 }
@@ -24,7 +24,7 @@
 
 
 
-.section-tiltle
+.section-tiltle{
     color: rgb(133, 7, 7);
 }
 
