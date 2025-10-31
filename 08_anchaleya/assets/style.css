@@ -17,12 +17,12 @@
 
 width: 100%;
 height: 150px;
-background-color: rgb(111, 248, 248);
+background-color: var(--theme-color);
 display: flex;
 align-items: center;
 justify-content: center;
 }
 .section-subtitle{
-    color: rgb(247, 140, 40);
+    color:var(--theme-color);
 
 }
