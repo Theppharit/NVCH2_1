@@ -1,12 +1,27 @@
+:root {
+--theem-coler: #000000;
+}
+
+
+
+
+
+
+
+
+
 .section-title {
-    color: #ff0000;
+    color: #ffffff;
 }
 
 .div-title {
     width: 100%;
     height: 150px;
-    background-color: #0077ff;
+    background-color: var(--theem-coler);
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.section-subtitle {
+    color: var(--theem-coler);
 }
