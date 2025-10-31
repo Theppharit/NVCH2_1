@@ -1,0 +1,25 @@
+:root {
+    --theme-color: rgb(111, 248, 248);
+}
+
+
+
+
+
+.section-title{
+    color: rgb(250, 122, 244);
+}
+
+.div-title{
+width: 100%;
+height: 150px;
+background-color: var(--theme-color);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.section-subtitle{
+    color:var(--theme-color);
+
+}
