@@ -1,12 +1,29 @@
-.section-tiltle {
-    color: aquamarine;
+:root{
+    --theme-color: #1fb8a3;;
 }
 
-.div-tiltle{
+
+
+
+
+
+.div-title{
     width: 100%;
     height: 150px;
-    background-color: rgb(235, 139, 107);
-    display: flex ;
+    background-color:var(--theme-color)  ;
+    display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.section-tiltle{
+    color: rgb(71, 87, 231);
+}
+
+.section-subtiltle{
+    color: #d356ec;
+}
+
+.section-subtiltle {
+    color: var(--theme-color);
 }
