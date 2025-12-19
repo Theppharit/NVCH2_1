@@ -1,5 +1,5 @@
 :root {
---theem-coler: #000000;
+--theem-coler: hsla(300, 100%, 1%, 0.041);
 }
 
 
@@ -11,8 +11,8 @@
 
 .div-title {
     width: 100%;
-    height: 150px;
-    background-color: var(--theem-coler);
+    heightz: 150px;
+    background-color: var(--tsheem-coler);
     display: flex;
     align-items: center;
     justify-content: center;
